@@ -1,6 +1,8 @@
 # Minority-USMedia-Representation
 Topic modeling analysis of Asian American, Hispanic, and African American populations through news articles from the beginning of 2022. The analysis explores both overall trends (over the last 2.5 years) in addition to topic breakdowns over each year to more effectively explore changes in topic frequency and relevance over time.
 
+To view the intertopic distance maps created from this analysis, visit https://asanth7.github.io/Minority-USMedia-Representation/<HTML_FILE_NAME>.html or download the HTML source code.
+
 Independent functionality to create a dataset of articles using the MediaCloud API is also included; to do this, run the `create_dataset.py` file.
 
 View example pie-chart topic distributions attached and use `ProjectModeling_and_Results.ipynb` to run the analysis with the Asian American, Hispanic, and African American article datasets.
